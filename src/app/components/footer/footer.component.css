@@ -1,0 +1,18 @@
+.footer-copyright {
+    background: #2a5f56;
+}
+.page-footer {
+    padding-top: 20px;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    border-top: 2px dashed #12493e7a;
+}
+.grey-text.text-lighten-4 {
+    color: #12493e !important;
+}
+.white-text {
+    color: #12493e !important;
+}
+.grey-text.text-lighten-3 {
+    color: #12493e !important;
+}

@@ -1,0 +1,22 @@
+.nav-wrapper {
+    background-color: #f1f1f1;
+}
+#nav-mobile li a {
+    color: #000;
+}
+.logo {
+    padding: 10px;
+    width: 170px;
+}
+.nav-wrapper {
+    background-color: #ffffff;
+}
+.router-link-active {
+    background: #2a5f56;
+    color: #f1f1f1 !important;
+}
+.material-icons {
+    float: left;
+    /* margin: 0 auto; */
+    margin: -3px 4px;
+}

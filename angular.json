@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "brasmodulos": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "brasmodulos"
+    }
+  },
+  "defaultProject": "brasmodulos",
+  "cli": {
+    "analytics": "07b0d565-b791-48ef-b4b8-8e3f80f0c652"
+  }
 }

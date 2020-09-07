@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+nav {
+    background-color: #2a5f56;
+    width: 100%;
+    height: 56px;
+    line-height: 56px;
+}
+.btn, .btn-large, .btn-small {
+   background: #2a5f56;
+}
